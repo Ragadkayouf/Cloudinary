@@ -1,0 +1,21 @@
+.Gallery {
+    display: inline-block;
+  
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    padding: 8px;
+
+}
+
+.Card{
+    width:46%;
+    padding: 10px;
+    border: 1.5px solid gray;
+    border-radius: 3px;
+    margin: 60px;
+  
+    
+}
